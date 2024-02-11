@@ -9,9 +9,9 @@ It is recommended to run 'src/pipelines/verify_output_df_pipeline.py' on the gen
 
 ### Collaborators
 #### Accenture
-Daniel Nahmias
-Gal Engelberg
-Dan Klein
+Daniel Nahmias  
+Gal Engelberg  
+Dan Klein  
 
 #### Ben-Gurion University of the Negev
 Asaf Shabtai
